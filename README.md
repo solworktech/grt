@@ -101,7 +101,7 @@ The below files are mostly included for demonstration purposes. They should be e
 
 Includes only one function: `ReplaceTokens()` which replaces tokens in input file and outputs to new file. This is invoked
 from `cmd/grt.go` and `grt_test.go`. Once you've gone through the basic bootstrapping, this file should be removed from
-your template repo. 
+your repo. 
 
 ### cmd/grt.go
 
